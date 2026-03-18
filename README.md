@@ -1,3 +1,8 @@
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+![Windows Support](https://img.shields.io/badge/Windows-10%2F11-blue)
+![Category](https://img.shields.io/badge/Category-System%20Repair-orange)
+![Community](https://img.shields.io/badge/Community-AngoloDiWindows-0078d4)
+
 # UEFI Secure Boot Audit Tool 🛡️
 
 A lightweight diagnostic tool designed to provide a quick and deep analysis of the UEFI firmware security status on Windows systems (Updated for 2026 standards).
